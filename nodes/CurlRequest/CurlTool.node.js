@@ -24,7 +24,7 @@ class CurlTool {
     this.description = {
       displayName: "Curl Tool",
       name: "curlTool",
-      icon: "fa:terminal",
+      icon: "file:curl.svg",
       group: ["transform"],
       version: 1,
       description: "Runs curl to make HTTP requests",
